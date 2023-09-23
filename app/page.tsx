@@ -6,6 +6,7 @@ export default function Home() {
     <>
     <div>
     <h2>Hemlo Sexy</h2>
+    <p>yo!</p>
     </div>
     <Button variant='destructive'>Click Me</Button>
   </>
